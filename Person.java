@@ -1,10 +1,11 @@
-
+// person class change 1
 public class Person {
 	
 	// member variables 
 	private String lastName; 
 	private String firstName; 
 	private int age; 
+	private string ssn; 
 
 	//constructor 
 	public Person(String firstName, String lastName, int age)
